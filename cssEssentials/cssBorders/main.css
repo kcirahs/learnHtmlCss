@@ -1,0 +1,13 @@
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid pink;
+}
+
+img {
+    border: 10px groove orangered;
+}
+
+.dogone {
+    border: 10px dotted teal;
+}
