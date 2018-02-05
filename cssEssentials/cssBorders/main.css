@@ -1,11 +1,15 @@
 div {
-    width: 100px;
-    height: 100px;
-    border: 1px solid pink;
+    width: 200px;
+    height: 200px;
+    border: 1px solid chocolate;
+    border-radius: 100%;
+    background-image: url("../../handsOn/puppy.jpg");
+    background-size: cover;
 }
 
 img {
     border: 10px groove orangered;
+    border-radius: 100%;
 }
 
 .dogone {
